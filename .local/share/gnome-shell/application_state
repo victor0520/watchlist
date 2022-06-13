@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="541" last-seen="1641797228"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="40933.5" last-seen="1632726681"/>
+    <application id="gedit.desktop" open-window-count="0" score="15" last-seen="1641797243"/>
+  </context>
+</application-state>

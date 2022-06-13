@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>The CentOS Project</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,300,400,700,800,900">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="/assets/css/styles.min.css">
+</head>
+<body style="font-family: Montserrat, sans-serif;">
+  <nav class="navbar navbar-dark navbar-expand-lg fixed-top d-flex justify-content-lg-center align-items-lg-start navigation-clean">
+    <div class="container"><a href="/"><img src="/assets/img/centos-logo-white.png" height="32" alt="CentOS Project"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div
+            class="collapse navbar-collapse" id="navcol-1">
+            <ul class="nav navbar-nav ml-auto">
+                <li class="nav-item" role="presentation"><a class="nav-link" href="/download" style="opacity: 0.93;"><i class="fas fa-download"></i>&nbsp;Download</a></li>
+                <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#"><i class="fas fa-info-circle"></i>&nbsp;About&nbsp;</a>
+                    <div class="dropdown-menu" role="menu" style="color: rgb(1,44,109);background-color: #000000;"><a class="dropdown-item" role="presentation" href="/about">About CentOS</a><a class="dropdown-item" role="presentation" href="https://wiki.centos.org/FAQ">Frequently Asked Questions (FAQs)</a><a class="dropdown-item" role="presentation"
+                            href="https://wiki.centos.org/SpecialInterestGroup">Special Interest Groups (SIGs)</a><a class="dropdown-item" role="presentation" href="/variants">CentOS Variants</a><a class="dropdown-item" role="presentation" href="/about/governance">Governance</a><a class="dropdown-item" role="presentation" href="/code-of-conduct">Code of Conduct</a></div>
+                </li>
+                <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#"><i class="fas fa-users"></i>&nbsp;Community&nbsp;</a>
+                    <div class="dropdown-menu" role="menu" style="background-color: rgb(0,0,0);"><a class="dropdown-item" role="presentation" href="https://wiki.centos.org/Contribute">Contribute</a><a class="dropdown-item" role="presentation" href="https://www.centos.org/forums/">Forums</a><a class="dropdown-item" role="presentation"
+                            href="https://wiki.centos.org/GettingHelp/ListInfo">Mailing Lists</a><a class="dropdown-item" role="presentation" href="https://wiki.centos.org/irc">IRC</a><a class="dropdown-item" role="presentation" href="/community/calendar/">Calendar &amp; IRC Meeting List</a>
+                        <a
+                            class="dropdown-item" role="presentation" href="http://planet.centos.org/">Planet</a><a class="dropdown-item" role="presentation" href="https://wiki.centos.org/ReportBugs">Submit Bug</a></div>
+                </li>
+                <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" href="#"><i class="fas fa-book"></i>&nbsp;Documentation&nbsp;</a>
+                    <div class="dropdown-menu" role="menu" style="background-color: rgb(0,0,0);"><a class="dropdown-item" role="presentation" href="https://wiki.centos.org/">Wiki</a><a class="dropdown-item" role="presentation" href="https://docs.centos.org/">Manuals</a><a class="dropdown-item" role="presentation" href="/keys">GPG Key Info</a></div>
+                </li>
+                <li class="nav-item" role="presentation"><a class="nav-link" href="http://wiki.centos.org/Documentation?action=show&amp;redirect=GettingHelp"><i class="far fa-life-ring"></i>&nbsp;Help</a></li>
+            </ul>
+    </div>
+    </div>
+</nav>
+
+<div class="centos-banner centos-banner-home">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-xl-8">
+              <h1>The CentOS Project</h1>
+              <p class="lead">Community-driven free software effort focused on delivering a robust open
+source ecosystem around a Linux platform.
+</p>
+              <p>We offer two Linux variants: (<em><a href="/cl-vs-cs">What's the difference?</a></em>)</p>
+              <a class="btn btn-light btn-lg" role="button" href="/centos-linux"><strong>CentOS Linux</strong></a>
+              <a class="btn btn-light btn-lg" role="button" href="/centos-stream"><strong>CentOS Stream</strong></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="centos-content">
+      <div class="container" style="background-color: #fff;">
+          <div class="row">
+              <div class="col-md-8 col-lg-8">
+                <h2>News and events</h2>
+<div class="card" style="border: none;">
+
+    <div class="card-body">
+        <h4 class="card-title">October 7th, 8th CentOS Dojo</h4>
+        <p class="card-text">
+        The schedule and registration for the upcoming <a
+        href="https://wiki.centos.org/Events/Dojo/October2021">CentOS
+        Dojo</a> are now available. The event will include a Board of
+        Directors "Ask me anything" and a hands-on tutorial on how to
+        contribute changes into CentOS Stream.
+        </p>
+    </div>
+
+    <div class="card-body">
+        <h4 class="card-title">CentOS Linux 8 (2105) Released </h4>
+        <p class="card-text">
+        <a
+        href="https://blog.centos.org/2021/06/centos-linux-8-2105-released/">We
+        are pleased to announce the release of CentOS Linux 8
+        (2105).</a>
+        </p>
+    </div>
+    
+</div>
+<section class="home__content__planet">
+
+  <h2>Around CentOS</h2>
+
+  <ul>
+  
+  <li><a href="https://blog.centos.org/2021/09/minutes-for-centos-board-of-directors-for-2021-09-08/?utm_source=rss&utm_medium=rss&utm_campaign=minutes-for-centos-board-of-directors-for-2021-09-08">CentOS Blog: Minutes for CentOS Board of Directors for 2021-09-08</a><br>Sep 13, 2021 &mdash; Attendees
+Board members
+
+Pat Riehecky
+Brian Exelbierd
+Davide Cavalca
+Jim Perrin
+Mike McLean
+Tru Huyhn
+Rich Bowen (Chair)
+Thomas Oulevey (Secretary)
+
+D...</li>
+  <li><a href="https://blog.centos.org/2021/09/newsletter-2021-09/?utm_source=rss&utm_medium=rss&utm_campaign=newsletter-2021-09">CentOS Blog: CentOS Community Newsletter: September 2021</a><br>Sep 7, 2021 &mdash; Dear CentOS community,
+It‚Äôs been another interesting and productive month in the CentOS project.
+If you‚Äôd like to contribute your own stories or artic...</li>
+  <li><a href="https://blog.centos.org/2021/09/cpe-to-staff-epel-work/?utm_source=rss&utm_medium=rss&utm_campaign=cpe-to-staff-epel-work">CentOS Blog: CPE to staff EPEL work</a><br>Sep 2, 2021 &mdash; We are pleased to announce that Red Hat is establishing a small team directly responsible for participating in EPEL activities. Their job isn't to dis...</li>
+  <li><a href="https://blog.centos.org/2021/08/minutes-for-centos-board-of-directors-for-2021-08-11/?utm_source=rss&utm_medium=rss&utm_campaign=minutes-for-centos-board-of-directors-for-2021-08-11">CentOS Blog: Minutes for CentOS Board of Directors for 2021-08-11</a><br>Aug 18, 2021 &mdash; (Video of the meeting is available on YouTube.)
+Attendees
+Board members
+
+Pat Riehecky
+Brian Exelbierd
+Davide Cavalca
+Johnny Hughes
+Jim Perrin
+Mike McL...</li>
+  <li><a href="https://blog.centos.org/2021/08/centos-community-newsletter-august-2021/?utm_source=rss&utm_medium=rss&utm_campaign=centos-community-newsletter-august-2021">CentOS Blog: CentOS Community Newsletter, August 2021</a><br>Aug 10, 2021 &mdash; 
+
+
+Dear CentOS enthusiast, thanks for joining us for another month's community newsletter.
+Top news
+There‚Äôs a lot going on on the CentOS community lat...</li>
+  <li><a href="https://blog.centos.org/2021/07/cloud-sig-quarterly-report/?utm_source=rss&utm_medium=rss&utm_campaign=cloud-sig-quarterly-report">CentOS Blog: Cloud SIG quarterly report</a><br>Jul 27, 2021 &mdash; Purpose
+Packaging and maintaining different FOSS based Private cloud infrastructure applications that one can install and run natively on CentOS.
+http...</li>
+  <li><a href="https://blog.centos.org/2021/07/announce-online-dojo-october-7th-and-8th/?utm_source=rss&utm_medium=rss&utm_campaign=announce-online-dojo-october-7th-and-8th">CentOS Blog: Announce: Online Dojo, October 7th and 8th</a><br>Jul 21, 2021 &mdash; We will be holding another online CentOS Dojo on October 7th and 8th.
+The call for presentations is now open.
+More details about the event are in the ...</li>
+  <li><a href="https://blog.centos.org/2021/07/centos-board-of-directors-minutes-2021-07-14/?utm_source=rss&utm_medium=rss&utm_campaign=centos-board-of-directors-minutes-2021-07-14">CentOS Blog: CentOS Board of Directors Minutes, 2021-07-14</a><br>Jul 20, 2021 &mdash; Convened 22:05
+
+
+
+In attendance:
+
+
+
+Board
+
+
+
+
+Pat Riehecky
+Thomas Oulevey (Secretary)
+Mike McLean
+Josh Boyer
+Davide Cavalca
+Jim Perrin
+Tru Huynh
+Rich ...</li>
+  
+  </ul>
+
+</section>
+</div>
+              <div class="col-md-4 col-lg-4">
+                <h2>Sponsorship</h2>
+<p>CentOS would not be possible without the support of our sponsors. We would like to thank the following product/service for being a CentOS sponsor:</p>
+<div class="carousel slide carousel-fade" data-ride="carousel" id="carousel-1">
+    <div class="carousel-inner" role="listbox">
+    
+    <div class="carousel-item "><a href="http://www.45drives.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/45drives.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.altushost.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/altushost.png"></a></div>
+    
+    <div class="carousel-item active"><a href="http://www.artmotion.eu" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/am-logo.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://aws.amazon.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/aws.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.backupvault.co.uk/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/BackupVault.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.baseip.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/baseip_240x60.jpg"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.cdn77.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/cdn77.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.clientvps.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/clientvps.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.codero.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/codero.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.colocationamerica.com/dedicated_servers" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/colocation-america.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://coloau.com.au/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/coloau.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.colocationguard.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/cologuard.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.constant.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/constant.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.coreix.net/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/coreix.jpg"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.cpanel.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/cpanel.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.dedicatednow.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/dedicatednow.gif"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.dedicatedsolutions.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/dedicatedsolutions.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://dts-net.com/portal/link.php?id=3" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/dtsnet.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://metal.equinix.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/equinix.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.estruxture.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/eStruxture.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.eukhost.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/eukhost.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.fasthosts.co.uk/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/fasthosts.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://gamehost.io/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/GameHost.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.globo.tech/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/globotech.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.heficed.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/heficed.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://host-engine.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/host-engine.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.host-stage.net/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/host-stage.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.hostdime.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/HostDime_Logo_Slogan_300_71.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.hostdime.com.br" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/hostdime_br_small.jpg"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.hostiserver.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/hostiserver.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.hostkey.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/hostkey_small.gif"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.internetx.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/internetx.gif"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.intevation.de/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/intevation.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.iomart.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/iomart.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://itsyndicate.org/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/itsyndicate.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.leaseweb.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/leaseweb.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://libertyvps.net" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/OffshoreVPS.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.liquidweb.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/liquidweb.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.lyrahosting.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/lyrahosting.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.miva.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/miva.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.multacom.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/multacom-240x60.gif"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.ndchost.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/NDCHost.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.nexcess.net/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/nexcess.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.pidginhost.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/pidginhost.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.pirateshosting.net" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/OffshoreServers.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.psw.net/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/PSW_Banner_240x60.jpg"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.psychz.net/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/psychz-234x60.jpg"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.ptisp.pt/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/ptisp.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.redstation.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/redstation.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.securedservers.com/landing/linux-hosting/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/PNAP_Banner.gif"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.seedvps.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/seedvps.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.serverel.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/serverel.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.serverhub.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/centos-serverhub.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://servermania.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/servermania.gif"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.serverpoint.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/serverpoint.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.serverpronto.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/serverpronto_small.gif"></a></div>
+    
+    <div class="carousel-item "><a href="http://shinjiru.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/shinjirubanner260x60.gif"></a></div>
+    
+    <div class="carousel-item "><a href="http://steadfast.net/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/steadfast.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.tailoredservers.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/tailoredservers.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.trabia.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/trabia.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://vhost.vn/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/vhostvn.gif"></a></div>
+    
+    <div class="carousel-item "><a href="https://vsys.host/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/vsys.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.voyant.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/voyant.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.webnx.com" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/webnx1.png"></a></div>
+    
+    <div class="carousel-item "><a href="https://www.wehaveservers.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/wehaveservers.png"></a></div>
+    
+    <div class="carousel-item "><a href="http://whitelabelitsolutions.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/whitelabelitsolutions.gif"></a></div>
+    
+    <div class="carousel-item "><a href="http://www.wowrack.com/" rel="nofollow"><img class="img-fluid" style="height: 50px" src="/assets/img/sponsors/wow.234x60.gif"></a></div>
+    
+    </div>
+</div>
+<p>If you value our work, please consider <a href="/sponsors">becoming a sponsor</a>!</p>
+
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <div class="footer-clean">
+    <footer>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-sm-6 col-md-3 item">
+                    <h3>About</h3>
+                    <ul>
+                        <li><a href="/about">About CentOS</a></li>
+                        <li><a href="https://wiki.centos.org/FAQ">Frequently Asked Questions (FAQs)</a></li>
+                        <li><a href="https://wiki.centos.org/SpecialInterestGroup">Special Interest Groups (SIGs)</a></li>
+                        <li><a href="/variants">CentOS Variants</a></li>
+                        <li><a href="/about/governance">Governance</a></li>
+                        <li><a href="/code-of-conduct">Code of Conduct</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item">
+                    <h3>Community</h3>
+                    <ul>
+                        <li><a href="https://wiki.centos.org/Contribute">Contribute</a></li>
+                        <li><a href="https://www.centos.org/forums/">Forums</a></li>
+                        <li><a href="https://wiki.centos.org/GettingHelp/ListInfo">Mailing Lists</a></li>
+                        <li><a href="https://wiki.centos.org/irc">IRC</a></li>
+                        <li><a href="/community/calendar/">Calendar &amp; IRC Meeting List</a></li>
+                        <li><a href="http://planet.centos.org/">Planet</a></li>
+                        <li><a href="https://wiki.centos.org/ReportBugs">Submit Bug</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text">
+                    <h3>The CentOS Project</h3>
+                    <p>The CentOS Project is a community-driven free software effort focused on delivering a robust open source ecosystem around a Linux platform.</p>
+                </div>
+                <div class="item social">
+                  <a href="https://www.facebook.com/groups/centosproject/"><i class="fab fa-facebook-f"></i></a>
+                  <a href="https://twitter.com/CentOS"><i class="fab fa-twitter"></i></a>
+                  <a href="https://youtube.com/TheCentOSProject"><i class="fab fa-youtube"></i></a>
+                  <a href="https://www.linkedin.com/groups/22405"><i class="fab fa-linkedin"></i></a>
+                  <a href="https://www.reddit.com/r/CentOS/"><i class="fab fa-reddit"></i></a>
+                </div>
+            </div>
+            <p class="text-center copyright">Copyright &copy; 2021 The CentOS Project | <a href="/legal">Legal</a> | <a href="/legal/privacy">Privacy</a> | <a href="https://git.centos.org/centos/centos.org">Site Source</a></p>
+        </div>
+    </footer>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
+Y\HΩè¥      aQn˛aQoCt≠aQp       :https://www.centos.org/ necko:classified 1 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 27 Sep 2021 07:13:06 GMT
+Server: Apache/2.4.37 (centos) OpenSSL/1.1.1k
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Last-Modified: Mon, 27 Sep 2021 06:25:16 GMT
+ETag: "63ae-5ccf4290fb978"
+Accept-Ranges: bytes
+Content-Length: 25518
+Content-Type: text/html; charset=UTF-8
+ original-response-headers Date: Mon, 27 Sep 2021 07:13:06 GMT
+Server: Apache/2.4.37 (centos) OpenSSL/1.1.1k
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Last-Modified: Mon, 27 Sep 2021 06:25:16 GMT
+ETag: "63ae-5ccf4290fb978"
+Accept-Ranges: bytes
+Content-Length: 25518
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+ ctid 1 uncompressed-len 0 net-response-time-onstart 4882 net-response-time-onstop 4887 predictor::resource-count 80 predictor::https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css 1,1,1632726782,4096 predictor::https://fonts.googleapis.com/css?family=Montserrat:100,300,400,700,800,900 1,1,1632726782,4096 predictor::https://use.fontawesome.com/releases/v5.12.0/css/all.css 1,1,1632726782,4096 predictor::https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css 1,1,1632726782,4096 predictor::https://www.centos.org/assets/css/styles.min.css 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/centos-logo-white.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/45drives.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/altushost.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/am-logo.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/aws.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/BackupVault.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/baseip_240x60.jpg 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/cdn77.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/clientvps.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/codero.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/colocation-america.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/coloau.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/cologuard.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/constant.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/coreix.jpg 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/cpanel.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/dedicatednow.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/dedicatedsolutions.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/dtsnet.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/equinix.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/eStruxture.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/eukhost.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/fasthosts.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/GameHost.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/globotech.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/heficed.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/host-engine.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/host-stage.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/HostDime_Logo_Slogan_300_71.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/hostdime_br_small.jpg 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/hostiserver.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/hostkey_small.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/internetx.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/intevation.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/iomart.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/itsyndicate.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/leaseweb.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/OffshoreVPS.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/liquidweb.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/lyrahosting.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/miva.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/multacom-240x60.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/NDCHost.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/nexcess.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/pidginhost.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/OffshoreServers.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/PSW_Banner_240x60.jpg 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/psychz-234x60.jpg 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/ptisp.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/redstation.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/PNAP_Banner.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/seedvps.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/serverel.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/centos-serverhub.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/servermania.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/serverpoint.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/serverpronto_small.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/shinjirubanner260x60.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/steadfast.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/tailoredservers.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/trabia.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/vhostvn.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/vsys.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/voyant.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/webnx1.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/wehaveservers.png 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/whitelabelitsolutions.gif 1,1,1632726782,4097 predictor::https://www.centos.org/assets/img/sponsors/wow.234x60.gif 1,1,1632726782,4097 predictor::https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js 1,1,1632726782,4096 predictor::https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.bundle.min.js 1,1,1632726782,4096 predictor::https://www.centos.org/assets/img/centos-motif.png 1,1,1632726782,4096 predictor::https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2 1,1,1632726782,4096 predictor::https://fonts.gstatic.com/s/montserrat/v18/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2 1,1,1632726782,4096 predictor::https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2 1,1,1632726782,4096 predictor::https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-brands-400.woff2 1,1,1632726782,4096   cÆ
