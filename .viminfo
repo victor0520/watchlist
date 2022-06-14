@@ -8,6 +8,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:w!
+:w
+:wq!
+:!wq
 :wq
 :qw
 :'<,'>!/bin/bash
@@ -23,10 +27,19 @@
 # Registers:
 
 # File marks:
-'0  8  0  ~/doc1
-'1  2  49  ~/line.sh
+'0  25  0  ~/templates/index.html
+'1  8  0  ~/doc1
+'2  2  49  ~/line.sh
 
 # Jumplist (newest first):
+-'  25  0  ~/templates/index.html
+-'  1  0  ~/templates/index.html
+-'  8  0  ~/doc1
+-'  1  0  ~/doc1
+-'  2  49  ~/line.sh
+-'  1  0  ~/line.sh
+-'  2  49  ~/line.sh
+-'  1  0  ~/line.sh
 -'  8  0  ~/doc1
 -'  1  0  ~/doc1
 -'  2  49  ~/line.sh
@@ -35,6 +48,15 @@
 -'  1  0  ~/line.sh
 
 # History of marks within files (newest to oldest):
+
+> ~/templates/index.html
+	"	25	0
+	^	14	90
+	.	14	90
+	+	6	4
+	+	11	0
+	+	10	1
+	+	14	90
 
 > ~/doc1
 	"	8	0
