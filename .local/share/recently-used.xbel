@@ -16,4 +16,38 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/user/Downloads/voll.jpg" added="2022-06-15T17:03:19Z" modified="2022-06-15T17:03:31Z" visited="2022-06-15T17:03:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-06-15T17:03:19Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-06-15T17:03:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/static/images" added="2022-06-15T17:04:46Z" modified="2022-06-15T17:04:46Z" visited="2022-06-15T17:04:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2022-06-15T17:04:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/static/images/voll.gif" added="2022-06-15T17:14:25Z" modified="2022-06-15T17:14:25Z" visited="2022-06-15T17:14:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-06-15T17:14:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
